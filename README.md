@@ -21,7 +21,7 @@ Search functionality to look up movies by title.
 Real-time movie suggestions based on user input.
 
 Detailed movie information display, including ratings and plot.
-
+![Image](https://github.com/user-attachments/assets/f2cdb8b0-c893-4d7b-b5bb-2049f588c547)
 Option to save favorite movies for quick access.
 
 Responsive design with a clean, modern UI.
